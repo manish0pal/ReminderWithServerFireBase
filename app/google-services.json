@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "666430135829",
+    "firebase_url": "https://testcode-22ae5-default-rtdb.firebaseio.com",
+    "project_id": "testcode-22ae5",
+    "storage_bucket": "testcode-22ae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666430135829:android:908cb8da8f9cbb2d02781c",
+        "android_client_info": {
+          "package_name": "com.learnado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666430135829-h428oht0od1ephkfsahj6flnilnlppsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAht2nIPoeaoFee4G5NLM-4d261P22WrK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666430135829-h428oht0od1ephkfsahj6flnilnlppsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
